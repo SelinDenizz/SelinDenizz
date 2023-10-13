@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SelinDenizz
-- 👀 I’m a sophomore undergraduate student of computer engineering and mathematics at Cankaya University.
-- 🌱 I’m currently learning C, C++, OOP, Cybersecurity, Phyton, Assembly, Html, and CSS.
-- 📫 My linkedn account: https://www.linkedin.com/in/selinndenizz
+- 👀 I’m a junior undergraduate student of computer engineering and mathematics at Cankaya University.
+- 🌱 I’m currently learning C, C++, OOP, Cybersecurity, Phyton, Assembly, HTML, and CSS.
+- 📫 My LinkedIn account: https://www.linkedin.com/in/selinndenizz
